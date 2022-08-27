@@ -1,2 +1,2 @@
 # nanos-vvariety2
-Vehicles Variety 2 config
+## [Assets](https://github.com/vugi99/nanos-vvariety2-assets)
